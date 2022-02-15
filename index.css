@@ -116,7 +116,7 @@ ul a:hover {
 .main__button--left,
 .main__button--right {
     height: 36px;
-    border: none;
+    border: 1px solid #efefef;
     background-color: #efefef;
     border-radius: 4px;
     padding: 1px 6px;
